@@ -324,8 +324,11 @@ agents and managers alike to monitor team performance and identify trends.
 ### Custom Report Built
 
 **Name:** Meridian Help Desk — Weekly Incident Summary
+
 **Type:** Bar chart
+
 **Source:** Incident table
+
 **Grouped by:** Priority
 
 This report gives a manager a single-glance view of how many incidents were
